@@ -43,8 +43,10 @@ difference, root mean square difference, zero coefficient percentage,
 
 This project was developed collaboratively as part of a university Computer Science course.
 
-**My Contributions:**
-- Developed the 
+## My Contributions
+- Developed and implemented the `-r` command functionality in C for the DCT steganography program.
+- Conducted comparative analysis of the project's results to evaluate differences in performance and effectiveness.
+- Analyzed and documented experimental results to compare the steganography methods and their outcomes.
 **Team Contributions:**
 - Project planning and development
 - Implementation and testing
@@ -54,6 +56,3 @@ This project was developed collaboratively as part of a university Computer Scie
 Developed with my project teammates as part of our coursework at the University of Texas at San Antonio.
 
 
-
-even/odd AC coefficient ratios, and two chi-square indicators. The CSV
-files can be opened in Excel or Google Sheets to create histogram charts.
